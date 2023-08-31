@@ -23,6 +23,8 @@
 
 ## 使用展示
 
+https://github.com/sethyuan/logseq-hierarchy-jump/assets/3410293/9ca991c2-0773-4c0d-9747-91d5a5013943
+
 ## 加入社群
 
 请扫以下二维码加我微信，我拉您进群。微信群仅用来讨论插件相关主题。
