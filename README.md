@@ -23,6 +23,8 @@ Identifies the current page's hierarchy and offer a quicker navigation.
 
 ## Usage
 
+https://github.com/sethyuan/logseq-hierarchy-jump/assets/3410293/9ca991c2-0773-4c0d-9747-91d5a5013943
+
 ## Join the community
 
 Join the Discord channel [here](https://discord.gg/DHud5TtMSK) where we discuss everything related to the plugin.
