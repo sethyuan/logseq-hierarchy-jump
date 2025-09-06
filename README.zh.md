@@ -1,5 +1,9 @@
 [English](README.md) | 中文
 
+> ⚠️ **警告**
+> 
+> 此插件与Logseq DB版本不兼容！
+
 # logseq-plugin-hierarchy-jump
 
 识别当前页面的层级结构并提供快速跳转能力。
