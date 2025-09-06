@@ -1,5 +1,9 @@
 English | [中文](README.zh.md)
 
+> ⚠️ **Warning**
+> 
+> This plugin is not compatible with Logseq DB versions!
+
 # logseq-plugin-hierarchy-jump
 
 Identifies the current page's hierarchy and offer a quicker navigation.
